@@ -1,6 +1,6 @@
 {
   "name": "react-debounce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "debounce as a component ",
   "main": "index.js",
   "directories": {
